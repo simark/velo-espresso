@@ -15,3 +15,4 @@
 ## Non-visités
 
 * [Brioche à Tête](https://www.briocheatete.ca/)
+* [La Croissanterie Figaro](https://www.lacroissanteriefigaro.com)
