@@ -16,3 +16,4 @@
 
 * [Brioche à Tête](https://www.briocheatete.ca/)
 * [La Croissanterie Figaro](https://www.lacroissanteriefigaro.com)
+* [Caffè Grazie Mille](http://montreal.caffegraziemille.com/)
