@@ -10,10 +10,9 @@
 * [Dispatch Coffee](https://www.dispatchcoffee.ca/)
 * [Le Moineau Masqué](https://www.facebook.com/lemoineaumasque/)
 * [Café Olimpico](https://www.cafeolimpico.com/)
-
+* [Brioche à Tête](https://www.briocheatete.ca/)
 
 ## Non-visités
 
-* [Brioche à Tête](https://www.briocheatete.ca/)
 * [La Croissanterie Figaro](https://www.lacroissanteriefigaro.com)
 * [Caffè Grazie Mille](http://montreal.caffegraziemille.com/)
