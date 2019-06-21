@@ -1,3 +1,15 @@
+# Concept
+
+Habituellement le jeudi:
+
+1. On part tôt de la maison en vélo
+2. On s'arrête dans un café à **7h30** pour boire un espresso (ou un latté, ou autre breuvage chaud caféiné)
+3. On rembarque sur notre vélo
+4. On monte le Mont-Royal via le chemin Olmsted jusqu'à la croix.
+5. On redescend en faisant un arrêt photo au [belvédère Kondiaronk](https://www.openstreetmap.org/#map=19/45.50353/-73.58738)
+6. On va travailler.
+
+
 # Cafés
 
 
@@ -13,8 +25,13 @@
 8. [Brioche à Tête](https://www.briocheatete.ca/)
 9. [La Croissanterie Figaro](https://www.lacroissanteriefigaro.com)
 10. [Pâtisserie au Kouign-Amann](https://www.facebook.com/pages/P%C3%A2tisserie-au-Kouign-Amann/129622323770489)
+11. [Belvédère Kondiaronk](https://www.openstreetmap.org/#map=19/45.50353/-73.58738) pour le solstice d'été. Café Aeropress fait sur place.
 
 
 ## Non-visités
 
 * [Caffè Grazie Mille](http://montreal.caffegraziemille.com/)
+
+# Inspiration
+
+[Coffeeneuring](https://chasingmailboxes.com/category/coffeeneuring/)
