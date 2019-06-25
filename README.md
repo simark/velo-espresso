@@ -31,6 +31,9 @@ Habituellement le jeudi:
 ## Non-visités
 
 * [Caffè Grazie Mille](http://montreal.caffegraziemille.com/)
+* [Café Myriade](http://www.cafemyriade.com/wp/fr/le-plateau/)
+* [Café Odessa](https://fr-ca.facebook.com/cafeodessa/)
+
 
 # Inspiration
 
