@@ -26,11 +26,12 @@ Habituellement le jeudi:
 9. [La Croissanterie Figaro](https://www.lacroissanteriefigaro.com)
 10. [Pâtisserie au Kouign-Amann](https://www.facebook.com/pages/P%C3%A2tisserie-au-Kouign-Amann/129622323770489)
 11. [Belvédère Kondiaronk](https://www.openstreetmap.org/#map=19/45.50353/-73.58738) pour le solstice d'été. Café Aeropress fait sur place.
+12. [Caffè Grazie Mille](http://montreal.caffegraziemille.com/)
 
 
 ## Non-visités
 
-* [Caffè Grazie Mille](http://montreal.caffegraziemille.com/)
+* [La Tasse Rouge](https://www.latasserouge.ca/)
 * [Café Myriade](http://www.cafemyriade.com/wp/fr/le-plateau/)
 * [Café Odessa](https://fr-ca.facebook.com/cafeodessa/)
 
