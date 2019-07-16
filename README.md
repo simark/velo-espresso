@@ -28,13 +28,14 @@ Habituellement le jeudi:
 11. [Belvédère Kondiaronk](https://www.openstreetmap.org/#map=19/45.50353/-73.58738) pour le solstice d'été. Café Aeropress fait sur place.
 12. [Caffè Grazie Mille](http://montreal.caffegraziemille.com/)
 13. [La Tasse Rouge](https://www.latasserouge.ca/)
+14. [Café Myriade](http://www.cafemyriade.com/wp/fr/le-plateau/)
 
 
 ## Non-visités
 
-* [Café Myriade](http://www.cafemyriade.com/wp/fr/le-plateau/)
 * [Café Odessa](https://fr-ca.facebook.com/cafeodessa/)
-
+* [Café DAX](https://www.cafedax.com/)
+* [Café Névé (Mont-Royal Flocon)](https://www.cafeneve.com/)
 
 # Inspiration
 
