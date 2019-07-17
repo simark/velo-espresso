@@ -25,7 +25,7 @@ Habituellement le jeudi:
 8. [Brioche à Tête](https://www.briocheatete.ca/)
 9. [La Croissanterie Figaro](https://www.lacroissanteriefigaro.com)
 10. [Pâtisserie au Kouign-Amann](https://www.facebook.com/pages/P%C3%A2tisserie-au-Kouign-Amann/129622323770489)
-11. [Belvédère Kondiaronk](https://www.openstreetmap.org/#map=19/45.50353/-73.58738) pour le solstice d'été. Café Aeropress fait sur place.
+11. [Belvédère Kondiaronk](https://www.openstreetmap.org/#map=19/45.50353/-73.58738) pour le solstice d'été. Café du [Brûloir](https://www.lebruloir.com/) fait sur place à l'Aeropress.
 12. [Caffè Grazie Mille](http://montreal.caffegraziemille.com/)
 13. [La Tasse Rouge](https://www.latasserouge.ca/)
 14. [Café Myriade](http://www.cafemyriade.com/wp/fr/le-plateau/)
@@ -36,6 +36,7 @@ Habituellement le jeudi:
 * [Café Odessa](https://fr-ca.facebook.com/cafeodessa/)
 * [Café DAX](https://www.cafedax.com/)
 * [Café Névé (Mont-Royal Flocon)](https://www.cafeneve.com/)
+* [Club Social](https://www.yellowpages.ca/bus/Quebec/Montreal/Club-Social-Cafe/7749953.html?what=club+social+cafe&where=Montr%C3%A9al%2C+QC&useContext=false)
 
 # Inspiration
 
