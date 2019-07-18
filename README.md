@@ -29,11 +29,11 @@ Habituellement le jeudi:
 12. [Caffè Grazie Mille](http://montreal.caffegraziemille.com/)
 13. [La Tasse Rouge](https://www.latasserouge.ca/)
 14. [Café Myriade](http://www.cafemyriade.com/wp/fr/le-plateau/)
+15. [Café Odessa](https://fr-ca.facebook.com/cafeodessa/)
 
 
 ## Non-visités
 
-* [Café Odessa](https://fr-ca.facebook.com/cafeodessa/)
 * [Café DAX](https://www.cafedax.com/)
 * [Café Névé (Mont-Royal Flocon)](https://www.cafeneve.com/)
 * [Club Social](https://www.yellowpages.ca/bus/Quebec/Montreal/Club-Social-Cafe/7749953.html?what=club+social+cafe&where=Montr%C3%A9al%2C+QC&useContext=false)
