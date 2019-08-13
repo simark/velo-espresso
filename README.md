@@ -37,7 +37,17 @@ Habituellement le jeudi:
 
 * [Café DAX](https://www.cafedax.com/)
 * [Club Social](https://www.yellowpages.ca/bus/Quebec/Montreal/Club-Social-Cafe/7749953.html?what=club+social+cafe&where=Montr%C3%A9al%2C+QC&useContext=false)
+* [Caravane Café](https://www.facebook.com/LeCaravaneCafe/)
+* [Café DAX](https://cafedax.com/)
+* [The Standard Mile-End](https://g.page/the-standard-mile-end?share)
+* [Esquina](https://www.facebook.com/esquina.baracafe/)
+* [Cardynal Bar à Espresso](https://www.facebook.com/CardynalEspresso/)
 
 # Inspiration
 
 [Coffeeneuring](https://chasingmailboxes.com/category/coffeeneuring/)
+
+# Sources
+
+* https://www.th3rdwave.coffee/l/the-ultimate-coffee-guide-for-the-plateau/
+* https://www.th3rdwave.coffee/l/cafe-crawling-in-montreal/
