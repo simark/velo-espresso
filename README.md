@@ -32,6 +32,7 @@ Habituellement le jeudi:
 15. [Café Odessa](https://fr-ca.facebook.com/cafeodessa/)
 16. [Café Névé (Mont-Royal Flocon)](https://www.cafeneve.com/)
 17. [Café District](https://www.facebook.com/cafedistrictmileend/)
+18. [Felice](https://www.cafefelice.ca/)
 
 ## Non-visités
 
