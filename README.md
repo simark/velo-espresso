@@ -34,10 +34,10 @@ Habituellement le jeudi:
 17. [Café District](https://www.facebook.com/cafedistrictmileend/)
 18. [Felice](https://www.cafefelice.ca/)
 19. [The Standard Mile-End](https://g.page/the-standard-mile-end?share)
+20. [Café DAX](https://www.cafedax.com/)
 
 ## Non-visités
 
-* [Café DAX](https://www.cafedax.com/)
 * [Club Social](https://www.yellowpages.ca/bus/Quebec/Montreal/Club-Social-Cafe/7749953.html?what=club+social+cafe&where=Montr%C3%A9al%2C+QC&useContext=false)
 * [Caravane Café](https://www.facebook.com/LeCaravaneCafe/)
 * [Esquina](https://www.facebook.com/esquina.baracafe/)
