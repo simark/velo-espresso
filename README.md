@@ -42,6 +42,7 @@ Habituellement le jeudi:
 * [Caravane Café](https://www.facebook.com/LeCaravaneCafe/)
 * [Esquina](https://www.facebook.com/esquina.baracafe/)
 * [Cardynal Bar à Espresso](https://www.facebook.com/CardynalEspresso/)
+* [Noble Café](https://www.facebook.com/Noblecafemtl/)
 
 # Inspiration
 
