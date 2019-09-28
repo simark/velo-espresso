@@ -37,10 +37,12 @@ Habituellement le jeudi:
 20. [Café DAX](https://www.cafedax.com/)
 21. [Club Social](https://www.yellowpages.ca/bus/Quebec/Montreal/Club-Social-Cafe/7749953.html?what=club+social+cafe&where=Montr%C3%A9al%2C+QC&useContext=false)
 22. [Noble Café](https://www.facebook.com/Noblecafemtl/)
+23. [Noble Café](https://www.facebook.com/Noblecafemtl/) (bis)
+24. [Caravane Café](https://www.facebook.com/LeCaravaneCafe/)
 
 ## Non-visités
 
-* [Caravane Café](https://www.facebook.com/LeCaravaneCafe/)
+* [Edmond Café Cantine](https://www.facebook.com/edmondcafecantine/)
 * [Esquina](https://www.facebook.com/esquina.baracafe/)
 * [Cardynal Bar à Espresso](https://www.facebook.com/CardynalEspresso/)
 
