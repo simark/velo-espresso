@@ -1,6 +1,6 @@
 # Concept
 
-Habituellement le jeudi:
+Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/category/coffeeneuring/).  Habituellement le jeudi:
 
 1. On part tôt de la maison en vélo
 2. On s'arrête dans un café à **7h30** pour boire un espresso (ou un latté, ou autre breuvage chaud caféiné)
@@ -45,10 +45,6 @@ Habituellement le jeudi:
 * [Edmond Café Cantine](https://www.facebook.com/edmondcafecantine/)
 * [Esquina](https://www.facebook.com/esquina.baracafe/)
 * [Cardynal Bar à Espresso](https://www.facebook.com/CardynalEspresso/)
-
-# Inspiration
-
-[Coffeeneuring](https://chasingmailboxes.com/category/coffeeneuring/)
 
 # Sources
 
