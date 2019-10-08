@@ -39,6 +39,7 @@ Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/ca
 22. [Noble Café](https://www.facebook.com/Noblecafemtl/)
 23. [Noble Café](https://www.facebook.com/Noblecafemtl/) (bis)
 24. [Caravane Café](https://www.facebook.com/LeCaravaneCafe/)
+25. [Brûlerie Urbaine](https://www.brulerieurbaine.ca)
 
 ## Non-visités
 
