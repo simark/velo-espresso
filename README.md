@@ -44,6 +44,7 @@ Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/ca
 
 ## Non-visités
 
+* [Café Souvenir](https://www.cafesouvenir.ca)
 * [Esquina](https://www.facebook.com/esquina.baracafe/)
 * [Cardynal Bar à Espresso](https://www.facebook.com/CardynalEspresso/)
 
