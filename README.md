@@ -40,10 +40,10 @@ Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/ca
 23. [Noble Café](https://www.facebook.com/Noblecafemtl/) (bis)
 24. [Caravane Café](https://www.facebook.com/LeCaravaneCafe/)
 25. [Brûlerie Urbaine](https://www.brulerieurbaine.ca)
+26. [Edmond Café Cantine](https://www.facebook.com/edmondcafecantine/)
 
 ## Non-visités
 
-* [Edmond Café Cantine](https://www.facebook.com/edmondcafecantine/)
 * [Esquina](https://www.facebook.com/esquina.baracafe/)
 * [Cardynal Bar à Espresso](https://www.facebook.com/CardynalEspresso/)
 
