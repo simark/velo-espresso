@@ -43,10 +43,11 @@ Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/ca
 26. [Edmond Café Cantine](https://www.facebook.com/edmondcafecantine/)
 27. [Café Souvenir](https://www.cafesouvenir.ca)
 28. [Cardynal Bar à Espresso](https://www.facebook.com/CardynalEspresso/)
+29. [Esquina](https://www.facebook.com/esquina.baracafe/)
 
 ## Non-visités
 
-* [Esquina](https://www.facebook.com/esquina.baracafe/)
+
 
 # Sources
 
