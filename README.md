@@ -12,7 +12,6 @@ Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/ca
 
 # Cafés
 
-
 ## Visités (ordre chronologique)
 
 1. [Paquebot Mont-Royal](https://www.paquebot.ca/paquebot-montroyal)
@@ -45,8 +44,11 @@ Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/ca
 28. [Cardynal Bar à Espresso](https://www.facebook.com/CardynalEspresso/)
 29. [Esquina](https://www.facebook.com/esquina.baracafe/)
 
+
 ## Non-visités
 
+* [Café Pista | Beaubien](https://www.cafepista.com)
+* [Café Ze Yeti](https://www.facebook.com/zeyeti.cafe/)
 
 
 # Sources
