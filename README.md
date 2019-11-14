@@ -44,7 +44,7 @@ Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/ca
 28. [Cardynal Bar à Espresso](https://www.facebook.com/CardynalEspresso/)
 29. [Esquina](https://www.facebook.com/esquina.baracafe/)
 30. [Café Ze Yeti](https://www.facebook.com/zeyeti.cafe/)
-
+31. [Paquebot Mont-Royal](https://www.paquebot.ca/paquebot-montroyal) (bis)
 
 ## Non-visités
 
