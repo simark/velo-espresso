@@ -49,6 +49,7 @@ Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/ca
 ## Non-visités
 
 * [Café Pista | Beaubien](https://www.cafepista.com)
+* [Club Espresso Bar](https://leclub.cc/)
 
 
 # Sources
