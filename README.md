@@ -46,10 +46,11 @@ Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/ca
 30. [Café Ze Yeti](https://www.facebook.com/zeyeti.cafe/)
 31. [Paquebot Mont-Royal](https://www.paquebot.ca/paquebot-montroyal) (bis)
 32. [The Standard Mile-End](https://g.page/the-standard-mile-end?share) (bis)
+33. [Café Pista | Beaubien](https://www.cafepista.com)
+
 
 ## Non-visités
 
-* [Café Pista | Beaubien](https://www.cafepista.com)
 * [Club Espresso Bar](https://leclub.cc/)
 
 
