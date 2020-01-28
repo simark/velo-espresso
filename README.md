@@ -52,8 +52,12 @@ Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/ca
 
 ## Non-visités
 
- 
-
+* [Ferlucci](https://www.facebook.com/cafeferlucci)
+* [Vito](http://cafevito.ca)
+* [Oui mais non](http://www.cafeouimaisnon.com)
+* [Larue](https://www.facebook.com/caffedellavia)
+* [Café In](https://cafeinmtl.com)
+* [Le petit brûloir](https://www.facebook.com/lepetitbruloir)
 
 # Sources
 
