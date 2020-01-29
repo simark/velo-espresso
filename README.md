@@ -58,10 +58,11 @@ Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/ca
 * [Larue](https://www.facebook.com/caffedellavia)
 * [Café In](https://cafeinmtl.com)
 * [Le petit brûloir](https://www.facebook.com/lepetitbruloir)
-* [Café Nocture](https://www.facebook.com/pg/nocturnecafe/) (Prince-Arthur/Saint-Laurent)
+* [Café Nocturne](https://www.facebook.com/pg/nocturnecafe/) (Prince-Arthur/Saint-Laurent)
 * [Lapin Pressé](https://www.facebook.com/Lapin-Press%C3%A9-99660028665) (Laurier Est/Chambord)
 * [La Distributrice Bar à café](https://www.ladistributrice.com/) (Mont-Royal/Saint-Denis)
 * [Pikolo Espresso Bar](http://pikoloespresso.com/) (Parc/Sherbrooke)
+* [Méchants Pinsons](https://www.facebook.com/mechantspinsons/) (Laurier/Fabre)
 
 # Sources
 
