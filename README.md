@@ -63,6 +63,7 @@ Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/ca
 * [La Distributrice Bar à café](https://www.ladistributrice.com/) (Mont-Royal/Saint-Denis)
 * [Pikolo Espresso Bar](http://pikoloespresso.com/) (Parc/Sherbrooke)
 * [Méchants Pinsons](https://www.facebook.com/mechantspinsons/) (Laurier/Fabre)
+* [Caffe San Simeon](https://www.instagram.com/caffesansimeon/?hl=en)
 
 
 # Sources
