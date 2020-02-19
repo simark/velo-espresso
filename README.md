@@ -50,6 +50,7 @@ Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/ca
 34. [Club Espresso Bar](https://leclub.cc/)
 35. [Café Nocturne](https://www.facebook.com/pg/nocturnecafe/)
 36. ~~[La Distributrice Bar à café](https://www.ladistributrice.com/)~~ [Café Névé (Mont-Royal Flocon)](https://www.cafeneve.com/)
+37. [Pikolo Espresso Bar](http://pikoloespresso.com/) (Parc/Sherbrooke)
 
 
 ## Non-visités
@@ -61,7 +62,6 @@ Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/ca
 * [Café In](https://cafeinmtl.com)
 * [Le petit brûloir](https://www.facebook.com/lepetitbruloir)
 * [Lapin Pressé](https://www.facebook.com/Lapin-Press%C3%A9-99660028665) (Laurier Est/Chambord)
-* [Pikolo Espresso Bar](http://pikoloespresso.com/) (Parc/Sherbrooke)
 * [Méchants Pinsons](https://www.facebook.com/mechantspinsons/) (Laurier/Fabre)
 * [Caffe San Simeon](https://www.instagram.com/caffesansimeon/?hl=fr) (Dante/St-Laurent)
 
