@@ -12,7 +12,7 @@ Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/ca
 
 # Cafés
 
-## Visités (ordre chronologique)
+## Saison 1
 
 1. [Paquebot Mont-Royal](https://www.paquebot.ca/paquebot-montroyal)
 2. [Le Falco](https://www.cafefalco.ca/)
@@ -55,18 +55,22 @@ Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/ca
 39. [Méchants Pinsons](https://www.facebook.com/mechantspinsons/)
 40. [Le Dépanneur Café](https://www.facebook.com/depcafelive/) (bis)
 
+## Saison 2
+
+* [Ferlucci](https://www.facebook.com/cafeferlucci)
+* [Cafécoquetel](https://www.cafecoquetel.com)
+* [Oui mais non](http://www.cafeouimaisnon.com)
 
 ## Non-visités
 
-* [Ferlucci](https://www.facebook.com/cafeferlucci)
 * [Vito](http://cafevito.ca)
-* [Oui mais non](http://www.cafeouimaisnon.com)
 * [Larue](https://www.facebook.com/caffedellavia)
 * [Café In](https://cafeinmtl.com)
 * [Le petit brûloir](https://www.facebook.com/lepetitbruloir)
 * [Caffe San Simeon](https://www.instagram.com/caffesansimeon/?hl=fr) (Dante/St-Laurent)
 * [Café Saint-Henri Villeray](https://sainthenri.ca/pages/quartier-general-headquarters) (Mile-End/de Castelnau O)
-
+* [Café Perko](http://perkocafe.com)
+* [Pinocchio Cafè](https://www.facebook.com/PinocchioMontreal)
 
 # Sources
 
