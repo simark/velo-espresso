@@ -71,6 +71,7 @@ Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/ca
 * [Café Saint-Henri Villeray](https://sainthenri.ca/pages/quartier-general-headquarters) (Mile-End/de Castelnau O)
 * [Café Perko](http://perkocafe.com)
 * [Pinocchio Cafè](https://www.facebook.com/PinocchioMontreal)
+* [Le P'tit Atelier](https://www.facebook.com/leptitatelierjarry)
 
 # Sources
 
