@@ -72,6 +72,8 @@ Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/ca
 * [Café Perko](http://perkocafe.com)
 * [Pinocchio Cafè](https://www.facebook.com/PinocchioMontreal)
 * [Le P'tit Atelier](https://www.facebook.com/leptitatelierjarry)
+* [Café Pablo](https://www.google.com/maps/place/Casa+Pablo+Boutique+Caf%C3%A9/@45.5339318,-73.6188083,15z/data=!4m2!3m1!1s0x0:0xd1f079404d9ac2fb?sa=X&ved=2ahUKEwjm383I25LwAhVMGFkFHe41A8kQ_BIwGHoECD0QBQ)
+* [Mon Atelier](https://www.monatelier.ca/)
 
 # Sources
 
