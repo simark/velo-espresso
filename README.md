@@ -57,12 +57,12 @@ Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/ca
 
 ## Saison 2
 
-2.1. [Ferlucci](https://www.facebook.com/cafeferlucci)
-2.2. [Cafécoquetel](https://www.cafecoquetel.com)
-2.3. [Oui mais non](http://www.cafeouimaisnon.com)
-2.4. [Pinocchio Cafè](https://www.facebook.com/PinocchioMontreal)
-2.5. [Mon Atelier](https://www.monatelier.ca/)
-2.6. [Larue Jarry](https://www.facebook.com/caffedellavia)
+1. [Ferlucci](https://www.facebook.com/cafeferlucci)
+2. [Cafécoquetel](https://www.cafecoquetel.com)
+3. [Oui mais non](http://www.cafeouimaisnon.com)
+4. [Pinocchio Cafè](https://www.facebook.com/PinocchioMontreal)
+5. [Mon Atelier](https://www.monatelier.ca/)
+6. [Larue Jarry](https://www.facebook.com/caffedellavia)
 
 ## Non-visités
 
