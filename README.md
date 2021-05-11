@@ -57,23 +57,24 @@ Implémentation Montréalaise du [coffeeneuring](https://chasingmailboxes.com/ca
 
 ## Saison 2
 
-* [Ferlucci](https://www.facebook.com/cafeferlucci)
-* [Cafécoquetel](https://www.cafecoquetel.com)
-* [Oui mais non](http://www.cafeouimaisnon.com)
+2.1. [Ferlucci](https://www.facebook.com/cafeferlucci)
+2.2. [Cafécoquetel](https://www.cafecoquetel.com)
+2.3. [Oui mais non](http://www.cafeouimaisnon.com)
+2.4. [Pinocchio Cafè](https://www.facebook.com/PinocchioMontreal)
+2.5. [Mon Atelier](https://www.monatelier.ca/)
+2.6. [Larue Jarry](https://www.facebook.com/caffedellavia)
 
 ## Non-visités
 
 * [Vito](http://cafevito.ca)
-* [Larue](https://www.facebook.com/caffedellavia)
 * [Café In](https://cafeinmtl.com)
 * [Le petit brûloir](https://www.facebook.com/lepetitbruloir)
 * [Caffe San Simeon](https://www.instagram.com/caffesansimeon/?hl=fr) (Dante/St-Laurent)
 * [Café Saint-Henri Villeray](https://sainthenri.ca/pages/quartier-general-headquarters) (Mile-End/de Castelnau O)
 * [Café Perko](http://perkocafe.com)
-* [Pinocchio Cafè](https://www.facebook.com/PinocchioMontreal)
 * [Le P'tit Atelier](https://www.facebook.com/leptitatelierjarry)
 * [Café Pablo](https://www.google.com/maps/place/Casa+Pablo+Boutique+Caf%C3%A9/@45.5339318,-73.6188083,15z/data=!4m2!3m1!1s0x0:0xd1f079404d9ac2fb?sa=X&ved=2ahUKEwjm383I25LwAhVMGFkFHe41A8kQ_BIwGHoECD0QBQ)
-* [Mon Atelier](https://www.monatelier.ca/)
+
 
 # Sources
 
